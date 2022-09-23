@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include "main.h"
+
 /*
  * File: 104-print_buffer.c
  * Auth: Dennice Ndede
