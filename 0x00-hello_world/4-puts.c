@@ -1,8 +1,11 @@
-#inclunde<stdio.h>
+#inclunde < stdio.h >
 
-int main(){
-
-	printf("Programming is like building a multilingual puzzle");
-
-	return 0;
+/**
+ * main - prints the phrase "programming is like building a multilingual puzzle
+ * Return: 0(Success)
+ */
+int main(void)
+{
+	puts("\"Programming is like a building a multilingual puzzle");
+	return (0);
 }
